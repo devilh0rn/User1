@@ -1,9 +1,4 @@
 user2
-<<<<<<< HEAD
-aaa
-ddd
-=======
 ccc
 bbb
->>>>>>> 3f6218d97bbdd35a4abffa9f62122acb9bc801de
 user1
