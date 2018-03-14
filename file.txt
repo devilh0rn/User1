@@ -1,3 +1,4 @@
+new beginning line
 user2
 Hello
 ccc
