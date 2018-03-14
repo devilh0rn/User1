@@ -4,3 +4,4 @@ bbb
 user1
 hi2
 hi
+user2 newLine
