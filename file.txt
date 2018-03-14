@@ -5,3 +5,4 @@ user1
 hi2
 hi
 user1 newLine
+user2 newLine
