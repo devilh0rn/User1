@@ -1,4 +1,5 @@
 new beginning line
+user1 changes
 user2
 Hello
 ccc
@@ -12,4 +13,3 @@ Hi
 new end line
 changeTest and blah blah blah
 both changes
-user1changes
