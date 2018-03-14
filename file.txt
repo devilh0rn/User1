@@ -11,4 +11,4 @@ user2 newLine
 Hi
 new end line
 changeTest and blah blah blah
-user 2 change
+both changes
