@@ -31,3 +31,4 @@ Another line
 readyToFail
 one line
 two lines
+user2 test
