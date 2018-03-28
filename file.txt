@@ -38,3 +38,8 @@ two lines
 user2 test
 
 newline
+
+add some new lines
+2
+3
+4
